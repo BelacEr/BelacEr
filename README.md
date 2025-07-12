@@ -1,60 +1,69 @@
-<h1 align="center">Hey 👋 What's Up? I'm BelacEr</h1>
-<h3 align="center">Turning coffee into code ☕ | CS student & self-taught dev | Building the future, one line at a time</h3>
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  Hey, I'm BelacEr 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-###
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Python+Dev;Web+Enthusiast+%7C+Future+Computer+Scientist;Turning+Ideas+Into+Code+%3C3" alt="Typing SVG" />
+</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" alt="linux logo" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=belacer&label=Profile%20views&color=0e75b6&style=flat" alt="belacer" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belacer&theme=dracula" width="90%">
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belacer&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belacer&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=belacer&theme=dracula&column=3&row=2" height="150" alt="trophy graph" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,linux,cpp,bash,vscode" height="60" />
 </div>
 
 ###
 
-🔭 I'm currently working on:
-- A personal website to learn HTML/CSS basics
-- Simple Python games (PyGame!)
-
-🌱 I'm currently learning:
-- Python (core concepts)
-- HTML/CSS (just starting out)
-
-🤝 I'm looking for help with:
-- Programming fundamentals (any tips welcome!)
-- Learning resources - I'm new but obsessed with progress
-
-⚡ Fun fact: Before falling in love with coding, I studied Economics and planned to major in it until programming stole my heart 💻❤️
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=belacer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belacer&theme=dracula&hide_border=true" height="180">
+</div>
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belacer&layout=compact&theme=dracula" alt="belacer" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=belacer&theme=dracula&column=7&margin-w=15&margin-h=15" height="150">
+</div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belacer/belacer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belacer/belacer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/belacer/belacer/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belacer&theme=dracula&hide_border=true&area=true" width="90%">
+</div>
+
+###
+
+<div align="center">
+  <h3>🧑‍💻 What I'm Working On</h3>
+  <p>
+    🔭 <b>Current Projects:</b><br>
+    - 🕸️ Personal website (HTML/CSS)<br>
+    - 🎮 Python games with PyGame<br>
+    <br>
+    🌱 <b>Learning:</b><br>
+    - 🐍 Python core concepts<br>
+    - 🌐 Web development basics<br>
+    <br>
+    🤝 <b>Looking for help with:</b><br>
+    - 📚 Programming fundamentals<br>
+    - 🔍 Learning resources<br>
+  </p>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=belacer&label=Profile+Views&color=dracula&style=flat" alt="belacer" />
+</div>
