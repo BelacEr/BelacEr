@@ -13,10 +13,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="git logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="60" alt="bash logo" />
 </div>
 
 ###
@@ -47,8 +43,18 @@
 - Programming fundamentals (any tips welcome!)
 - Learning resources - I'm new but obsessed with progress
 
-⚡ Fun fact: Before falling in love with coding, I studied Economics and planned to major in it - until programming stole my heart 💻❤️
+⚡ Fun fact: Before falling in love with coding, I studied Economics and planned to major in it until programming stole my heart 💻❤️
+
+###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belacer&layout=compact&theme=dracula" alt="belacer" />
 </p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belacer/belacer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belacer/belacer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/belacer/belacer/output/pacman-contribution-graph.svg" width="100%">
+</picture>
