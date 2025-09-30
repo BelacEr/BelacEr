@@ -53,19 +53,29 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belacer&theme=github_dark" width="80%" alt="profile card" />
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belacer&theme=github_dark" width="90%" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=belacer&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A2BE2" width="48%" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=belacer&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&bg_color=0d1117" width="48%" alt="stats" />
+  <!-- Streak + General Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=belacer&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A2BE2" width="49%" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=belacer&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&bg_color=0d1117" width="49%" alt="Overall stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=belacer&theme=discord&column=7&margin-w=15&margin-h=15" height="120" alt="trophies" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belacer&layout=compact&count_private=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" width="60%" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=belacer&theme=discord&column=5&margin-w=10&margin-h=10" width="90%" alt="Trophies" />
+</p>
+
 
 ---
 
