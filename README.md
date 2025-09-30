@@ -21,7 +21,8 @@
 ---
 
 ### 🛠️ Tech Stack
-<div align="center" style="background: linear-gradient(45deg, #1a1a2e, #16213e); padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+
+<div align="center" style="background: url('https://i.imgur.com/zMM1o3P.jpeg') no-repeat center; background-size: cover; padding: 20px; border-radius: 10px;">
 
 #### Languages  
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js" height="50" />
@@ -33,7 +34,8 @@
 <img src="https://skillicons.dev/icons?i=md,regex,stackoverflow" height="40" />
 
 </div>
-<br>
+
+
 
 
 ---
