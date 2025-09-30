@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
-  &nbsp;Hi — I’m BelacEr &nbsp;
+  Hi — I'm BelacEr
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
 </h1>
 
@@ -12,81 +12,117 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Python+%26+C+Learner;Web+Enthusiast+%7C+Future+Computer+Scientist;Turning+Ideas+Into+Code+%3C3" alt="typing" />
 </p>
 
+---
 
-## 👋 About me
-- Computer Science student who loves building small projects, learning low-level C and Python, and exploring web development.
-- Big fan of tinkering with Linux (Arch), reading novels, and learning piano in my free time.
-- Curious, persistent, and always learning — I prefer clear explanations and building a solid foundation.
+## 👋 About Me
+
+Computer Science student passionate about building projects and learning through hands-on experience. I focus on **Python** and **C** fundamentals while exploring web development technologies.
+
+**When I'm not coding:**
+- Tinkering with Linux (Arch btw 🐧)
+- Reading novels and exploring new ideas
+- Learning piano and improving my musical skills
+
+I believe in **learning by doing** — building solid foundations through clear understanding and persistent practice.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center" style="background: url('https://i.imgur.com/zMM1o3P.jpeg') no-repeat center; background-size: cover; padding: 20px; border-radius: 10px;">
+<div align="center">
 
-#### Languages  
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js" height="50" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" height="50" alt="Languages" />
+</p>
 
-#### Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,vim,bash,linux" height="50" />
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,vim" height="50" alt="Tools" />
+</p>
 
-#### Extras  
-<img src="https://skillicons.dev/icons?i=md,regex,stackoverflow" height="40" />
+### 🐧 Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,linux" height="50" alt="Environment" />
+</p>
+
+### 📚 Also Familiar With
+<p>
+  <img src="https://skillicons.dev/icons?i=md,regex,stackoverflow" height="40" alt="Extras" />
+</p>
 
 </div>
 
+---
 
+## 🚀 Currently Working On
 
+**📖 Learning:**
+- Deeper Python concepts and best practices
+- C fundamentals and memory management
+- Modern web development basics
+
+**🛠️ Building:**
+- Personal website (work in progress)
+- Small practice projects to strengthen problem-solving skills
+
+**🎯 Goal:**
+Become a confident software engineer — one well-commented commit at a time.
 
 ---
 
-## 🚀 Currently
-- **Learning:** deeper Python concepts, C fundamentals, and web basics.  
-- **Working on:** a personal website (WIP) and small practice projects to strengthen problem-solving skills.  
-- **Goal:** become a confident software engineer — one well-commented commit at a time.
+## 📂 Featured Projects
 
----
+### 🗂️ [File Organizer CLI](https://github.com/BelacEr/file-organizer-cli)
+A Python command-line tool that automatically organizes files in a directory by type. Clean, efficient, and practical.
 
-## 📂 Selected projects
+### 🔐 [Password Manager CLI](https://github.com/BelacEr/Password-Manager-CLI)
+A secure command-line password manager using encryption and local SQLite database. Privacy-first approach to credential management.
 
-- [File Organizer CLI](https://github.com/BelacEr/file-organizer-cli) — A Python command-line tool to automatically organize files in a directory by type.
-- [Password-Manager-CLI](https://github.com/BelacEr/Password-Manager-CLI) — A Python simple command-line tool to securely store and manage your passwords using encryption and a local SQLite database.
-- [Journal CLI Tool](https://github.com/BelacEr/Journal-CLI-Tool) — A simple, elegant command-line journaling tool written in Python.
+### 📝 [Journal CLI Tool](https://github.com/BelacEr/Journal-CLI-Tool)
+A simple, elegant command-line journaling tool written in Python. Perfect for daily reflections and note-taking.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belacer&theme=github_dark" width="90%" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <!-- Streak + General Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=belacer&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A2BE2" width="49%" alt="Streak stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=belacer&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&bg_color=0d1117" width="49%" alt="Overall stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belacer&layout=compact&count_private=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" width="60%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=belacer&theme=discord&column=5&margin-w=10&margin-h=10" width="90%" alt="Trophies" />
 </p>
 
-
 ---
 
-## 📫 Contact
-- DM me on GitHub for collabs, feedback, or cool project ideas.
-- Prefer code reviews? Open an issue or open a PR on one of my repos.
+## 📫 Let's Connect
+
+**💬 Open for:**
+- Collaborations on interesting projects
+- Code reviews and feedback
+- Discussions about programming and tech
+
+**📥 How to reach me:**
+- DM me here on GitHub
+- Open an issue on any of my repos
+- Submit a PR if you have improvements to suggest
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Explore+my+repos+%F0%9F%93%83" alt="thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+explore+my+repos+%F0%9F%93%82" alt="footer" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=belacer&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
